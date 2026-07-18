@@ -1,0 +1,6 @@
+{
+  "name": "Retrieval Lab",
+  "description": "A document retrieval system lab utilizing text embeddings and similarity matching to retrieve relevant documents for queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
